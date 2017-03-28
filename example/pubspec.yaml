@@ -1,0 +1,8 @@
+name: example
+publish_to: none
+dependencies:
+  angel_common: ^1.0.0-beta
+dev_dependencies:
+  angel_haml:
+    path: ../
+  build_runner: ^0.3.0

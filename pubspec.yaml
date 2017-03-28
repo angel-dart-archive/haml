@@ -1,0 +1,15 @@
+name: angel_haml
+version: 1.0.0
+description: HAML view generator for Angel.
+author: Tobe O <thosakwe@gmail.com>
+homepage: https://github.com/angel-dart/haml
+environment:
+  sdk: ">=1.19.0"
+dependencies:
+  build: ^0.7.0
+  code_builder: ^1.0.0-beta
+  haml: ^0.0.1
+dev_dependencies:
+  angel_test: ^1.0.0
+  build_test: ^0.4.1
+  test: ^0.12.0
